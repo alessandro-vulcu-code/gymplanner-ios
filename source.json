@@ -1,0 +1,30 @@
+{
+  "name": "Gym Planner",
+  "apps": [
+    {
+      "name": "Gym Planner",
+      "bundleIdentifier": "it.alessandrovulcu.gymplanner",
+      "developerName": "Alessandro Vulcu",
+      "localizedDescription": "Piani di allenamento, registrazione delle serie, timer e storico.",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2",
+          "date": "2026-11-03T12:26:01+00:00",
+          "downloadURL": "https://github.com/alessandro-vulcu-code/gymplanner-ios/releases/download/v1.0.0/GymPlanner-1.0.0-2-unsigned.ipa",
+          "size": 8618384,
+          "sha256": "8403092bdfb73aa21247f34085831decb31b173ac0f432d462b8d496ec25a823",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/alessandro-vulcu-code/gymplanner-ios/main/icon.png",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Gym Planner può collegarsi al server di allenamento sulla tua rete locale."
+        }
+      }
+    }
+  ],
+  "news": []
+}

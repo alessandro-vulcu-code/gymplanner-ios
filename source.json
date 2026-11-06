@@ -8,6 +8,15 @@
       "localizedDescription": "Piani di allenamento, registrazione delle serie, timer e storico.",
       "versions": [
         {
+          "version": "1.0.4",
+          "buildVersion": "8",
+          "date": "2026-11-06T21:34:23+00:00",
+          "downloadURL": "https://github.com/alessandro-vulcu-code/gymplanner-ios/releases/download/v1.0.4/GymPlanner-1.0.4-8-unsigned.ipa",
+          "size": 8839992,
+          "sha256": "90779f48c8f5133c1c40ccc6b58c84f6461b307dc7911183898b60cc80e9ef5e",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.3",
           "buildVersion": "7",
           "date": "2026-11-06T10:54:16+00:00",
